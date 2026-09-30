@@ -1,0 +1,16 @@
+<svg version="1.1" id="svg10" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 57.7 75.8" style="enable-background:new 0 0 57.7 75.8;" xml:space="preserve">
+ <style type="text/css">
+  .st0{fill:#21317D;}
+	.st1{fill:#ED1C24;}
+ </style>
+ <g id="g18" transform="matrix(1.3333333,0,0,-1.3333333,0,80)">
+  <path id="path27530" class="st0" d="M10.8,46.3V60H0V27.5C0,35.5,4.4,42.5,10.8,46.3">
+  </path>
+  <path id="path27534" class="st0" d="M23,49.1V38.3c5.3-0.7,9.5-5.2,9.5-10.7c0-6-4.8-10.8-10.8-10.8c-6,0-10.8,4.8-10.8,10.8h0V8.8
+		c3.2-1.8,6.9-2.9,10.8-2.9c12,0,21.7,9.7,21.7,21.7C43.3,39,34.3,48.4,23,49.1">
+  </path>
+  <path id="path27538" class="st1" d="M10.8,46.3C4.4,42.5,0,35.5,0,27.5v-20V3.2h10.8V6v2.8v18.8h0c0,5.5,4.1,10.1,9.5,10.7v10.9
+		C16.9,48.9,13.6,47.9,10.8,46.3">
+  </path>
+ </g>
+</svg>

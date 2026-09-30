@@ -1,0 +1,5 @@
+cd D:\finoptima\backend
+& "C:\Users\badug\AppData\Local\Programs\Python\Python313\python.exe" app.py
+
+cd D:\finoptima\frontend
+npm start

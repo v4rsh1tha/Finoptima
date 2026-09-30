@@ -1,0 +1,5449 @@
+[
+  {
+    "card_id": "hdfc_regalia",
+    "card_name": "HDFC Regalia Credit Card",
+    "bank_name": "HDFC Bank",
+    "network": "visa",
+    "card_tier": "mid",
+    "fees": {
+      "annual_fee": 2500,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 300000
+    },
+    "eligibility": {
+      "min_credit_score": 750,
+      "min_income_salaried": 600000,
+      "min_income_self_employed": 600000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 2.67,
+      "point_value": {
+        "travel": 0.5,
+        "statement": 0.35
+      },
+      "welcome_bonus_points": 2500,
+      "milestones": [
+        {
+          "spend_threshold": 500000,
+          "bonus_points": 5000
+        },
+        {
+          "spend_threshold": 800000,
+          "bonus_points": 10000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2.67
+      },
+      "groceries": {
+        "rate": 2.67
+      },
+      "dining": {
+        "rate": 2.67
+      },
+      "online_shopping": {
+        "rate": 2.67
+      },
+      "fuel": {
+        "rate": 1.0,
+        "monthly_cap_points": 500
+      },
+      "upi": {
+        "rate": 2.67
+      },
+      "travel": {
+        "rate": 2.67
+      },
+      "entertainment": {
+        "rate": 2.67
+      },
+      "pharmacy": {
+        "rate": 2.67
+      },
+      "international_forex": {
+        "rate": 2.67
+      },
+      "rent": {
+        "rate": 1.0
+      },
+      "education": {
+        "rate": 2.67
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 2.67
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 2
+      },
+      "international_lounge": {
+        "visits_per_year": 6
+      },
+      "travel_insurance": {
+        "air_accident_cover": 10000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {
+        "program": "Good Food Trail"
+      }
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "maximize_rewards",
+        "travel"
+      ],
+      "competes_with": [
+        "sbi_prime",
+        "axis_atlas",
+        "amex_mrcc"
+      ],
+      "complementary_cards": [
+        "hdfc_millennia",
+        "hdfc_diners_black"
+      ]
+    }
+  },
+  {
+    "card_id": "hdfc_regalia_gold",
+    "card_name": "HDFC Regalia Gold Credit Card",
+    "bank_name": "HDFC Bank",
+    "network": "visa",
+    "card_tier": "mid",
+    "fees": {
+      "annual_fee": 2500,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 400000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 750,
+      "min_income_salaried": 1800000,
+      "min_income_self_employed": 1800000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 2.67,
+      "point_value": {
+        "travel": 0.5,
+        "statement": 0.5
+      },
+      "welcome_bonus_points": 0,
+      "milestones": [
+        {
+          "spend_threshold": 500000,
+          "bonus_points": 10000
+        },
+        {
+          "spend_threshold": 750000,
+          "bonus_points": 10000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2.67
+      },
+      "groceries": {
+        "rate": 2.67
+      },
+      "dining": {
+        "rate": 2.67
+      },
+      "online_shopping": {
+        "rate": 2.67
+      },
+      "fuel": {
+        "excluded": true
+      },
+      "upi": {
+        "rate": 2.67
+      },
+      "travel": {
+        "rate": 13.35
+      },
+      "entertainment": {
+        "rate": 2.67
+      },
+      "pharmacy": {
+        "rate": 2.67
+      },
+      "international_forex": {
+        "excluded": true
+      },
+      "rent": {
+        "rate": 2.67
+      },
+      "education": {
+        "rate": 2.67
+      },
+      "tax": {
+        "rate": 2.67
+      },
+      "insurance": {
+        "rate": 2.67
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 3
+      },
+      "international_lounge": {
+        "visits_per_year": 6
+      },
+      "travel_insurance": {
+        "air_accident_cover": 10000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": true,
+      "ott_subscriptions": "Swiggy One",
+      "dining_program": {
+        "program": "Good Food Trail"
+      }
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "travel",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "sbi_prime",
+        "axis_atlas",
+        "amex_mrcc"
+      ],
+      "complementary_cards": [
+        "hdfc_millennia",
+        "hdfc_diners_black"
+      ]
+    }
+  },
+  {
+    "card_id": "hdfc_millennia",
+    "card_name": "HDFC Millennia Credit Card",
+    "bank_name": "HDFC Bank",
+    "network": "visa",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 1000,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 100000
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 350000,
+      "min_income_self_employed": 350000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 1.0
+      },
+      "welcome_bonus_points": 1000,
+      "milestones": [
+        {
+          "spend_threshold": 100000,
+          "bonus_points": 1000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 5.0
+      },
+      "groceries": {
+        "rate": 5.0
+      },
+      "dining": {
+        "rate": 2.5
+      },
+      "online_shopping": {
+        "rate": 5.0
+      },
+      "fuel": {
+        "rate": 1.0
+      },
+      "upi": {
+        "rate": 1.0
+      },
+      "travel": {
+        "rate": 5.0
+      },
+      "entertainment": {
+        "rate": 5.0
+      },
+      "pharmacy": {
+        "rate": 2.5
+      },
+      "international_forex": {
+        "rate": 2.5
+      },
+      "rent": {
+        "rate": 1.0
+      },
+      "education": {
+        "rate": 1.0
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1.0
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 1
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {
+        "program": null
+      }
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "axis_ace",
+        "icici_amazon_pay"
+      ],
+      "complementary_cards": [
+        "hdfc_regalia"
+      ]
+    }
+  },
+  {
+    "card_id": "hdfc_diners_black",
+    "card_name": "HDFC Diners Club Black Credit Card",
+    "bank_name": "HDFC Bank",
+    "network": "diners",
+    "card_tier": "super_premium",
+    "fees": {
+      "annual_fee": 10000,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 500000
+    },
+    "eligibility": {
+      "min_credit_score": 800,
+      "min_income_salaried": 1750000,
+      "min_income_self_employed": 2000000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 3.33,
+      "point_value": {
+        "travel": 1.0,
+        "statement": 0.5
+      },
+      "welcome_bonus_points": 10000,
+      "milestones": [
+        {
+          "spend_threshold": 500000,
+          "bonus_points": 10000
+        },
+        {
+          "spend_threshold": 1000000,
+          "bonus_points": 25000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 3.33
+      },
+      "groceries": {
+        "rate": 3.33
+      },
+      "dining": {
+        "rate": 3.33
+      },
+      "online_shopping": {
+        "rate": 3.33
+      },
+      "fuel": {
+        "rate": 1.0,
+        "monthly_cap_points": 500
+      },
+      "upi": {
+        "rate": 3.33
+      },
+      "travel": {
+        "rate": 3.33
+      },
+      "entertainment": {
+        "rate": 3.33
+      },
+      "pharmacy": {
+        "rate": 3.33
+      },
+      "international_forex": {
+        "rate": 3.33
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 3.33
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 3.33
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 6
+      },
+      "international_lounge": {
+        "visits_per_year": 999
+      },
+      "travel_insurance": {
+        "air_accident_cover": 20000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": true,
+        "free_rounds_per_month": 2
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": true,
+      "ott_subscriptions": true,
+      "dining_program": {
+        "program": "Diners Club Dining"
+      }
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "premium_lifestyle",
+        "travel",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "axis_reserve",
+        "sbi_elite"
+      ],
+      "complementary_cards": [
+        "hdfc_regalia"
+      ]
+    }
+  },
+  {
+    "card_id": "hdfc_infinia_metal",
+    "card_name": "HDFC Infinia Metal Credit Card",
+    "bank_name": "HDFC Bank",
+    "network": "visa",
+    "card_tier": "super_premium",
+    "fees": {
+      "annual_fee": 12500,
+      "is_lifetime_free": false,
+      "joining_fee": 12500,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 800,
+      "min_income_salaried": 3000000,
+      "min_income_self_employed": 3000000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false,
+      "invite_only": true
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 3.33,
+      "point_value": {
+        "travel_portal": 1.0,
+        "statement": 0.5
+      },
+      "welcome_bonus_points": 12500,
+      "milestones": [
+        {
+          "spend_threshold": 800000,
+          "bonus_points": 10000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 3.33
+      },
+      "groceries": {
+        "rate": 3.33
+      },
+      "dining": {
+        "rate": 3.33
+      },
+      "online_shopping": {
+        "rate": 3.33
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 3.33
+      },
+      "travel": {
+        "rate": 16.67
+      },
+      "entertainment": {
+        "rate": 3.33
+      },
+      "pharmacy": {
+        "rate": 3.33
+      },
+      "international_forex": {
+        "rate": 3.33
+      },
+      "rent": {
+        "rate": 1
+      },
+      "education": {
+        "rate": 3.33
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 3.33
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 6,
+        "visits_per_year": 999
+      },
+      "international_lounge": {
+        "visits_per_year": 999
+      },
+      "travel_insurance": {
+        "air_accident_cover": 100000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": true,
+        "free_rounds_per_month": 2
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": true,
+      "ott_subscriptions": true,
+      "dining_program": {
+        "program": "Good Food Trail"
+      }
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "premium_lifestyle",
+        "travel"
+      ],
+      "competes_with": [
+        "icici_emeralde_private_metal",
+        "yes_private"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "hdfc_bizblack",
+    "card_name": "HDFC BizBlack Credit Card",
+    "bank_name": "HDFC Bank",
+    "network": "mastercard",
+    "card_tier": "super_premium",
+    "fees": {
+      "annual_fee": 10000,
+      "is_lifetime_free": false,
+      "joining_fee": 10000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 800,
+      "min_income_salaried": 3000000,
+      "min_income_self_employed": 3000000,
+      "eligible_employment": [
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false,
+      "invite_only": true
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 3.33,
+      "point_value": {
+        "travel_portal": 1.0,
+        "statement": 0.5
+      },
+      "welcome_bonus_points": 10000,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 3.33
+      },
+      "groceries": {
+        "rate": 3.33
+      },
+      "dining": {
+        "rate": 3.33
+      },
+      "online_shopping": {
+        "rate": 3.33
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 3.33
+      },
+      "travel": {
+        "rate": 16.67
+      },
+      "entertainment": {
+        "rate": 3.33
+      },
+      "pharmacy": {
+        "rate": 3.33
+      },
+      "international_forex": {
+        "rate": 3.33
+      },
+      "rent": {
+        "rate": 1
+      },
+      "education": {
+        "rate": 3.33
+      },
+      "tax": {
+        "rate": 1
+      },
+      "insurance": {
+        "rate": 3.33
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 6
+      },
+      "international_lounge": {
+        "visits_per_year": 6
+      },
+      "travel_insurance": {
+        "air_accident_cover": 100000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": true,
+        "free_rounds_per_month": 2
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": true,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "business",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "amex_mrcc",
+        "hdfc_infinia_metal"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "hdfc_bizpower",
+    "card_name": "HDFC BizPower Credit Card",
+    "bank_name": "HDFC Bank",
+    "network": "mastercard",
+    "card_tier": "premium",
+    "fees": {
+      "annual_fee": 5000,
+      "is_lifetime_free": false,
+      "joining_fee": 5000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 750,
+      "min_income_salaried": 1500000,
+      "min_income_self_employed": 1500000,
+      "eligible_employment": [
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "travel": 0.5,
+        "cashback": 0.35
+      },
+      "welcome_bonus_points": 5000,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2.0
+      },
+      "groceries": {
+        "rate": 2.0
+      },
+      "dining": {
+        "rate": 2.0
+      },
+      "online_shopping": {
+        "rate": 2.0
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 2.0
+      },
+      "travel": {
+        "rate": 2.0
+      },
+      "entertainment": {
+        "rate": 2.0
+      },
+      "pharmacy": {
+        "rate": 2.0
+      },
+      "international_forex": {
+        "rate": 2.0
+      },
+      "rent": {
+        "rate": 1
+      },
+      "education": {
+        "rate": 2.0
+      },
+      "tax": {
+        "rate": 1
+      },
+      "insurance": {
+        "rate": 2.0
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 2
+      },
+      "international_lounge": {
+        "visits_per_year": 2
+      },
+      "travel_insurance": {
+        "air_accident_cover": 10000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": true,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "business",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "hdfc_bizblack",
+        "amex_mrcc"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "hdfc_swiggy",
+    "card_name": "Swiggy HDFC Bank Credit Card",
+    "bank_name": "HDFC Bank",
+    "network": "visa",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 500,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 200000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 350000,
+      "min_income_self_employed": 350000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 1.0
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 10,
+        "monthly_cap_points": 1500
+      },
+      "groceries": {
+        "rate": 5,
+        "monthly_cap_points": 1500
+      },
+      "dining": {
+        "rate": 5
+      },
+      "online_shopping": {
+        "rate": 5,
+        "monthly_cap_points": 1500
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 1
+      },
+      "travel": {
+        "rate": 1
+      },
+      "entertainment": {
+        "rate": 5
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "axis_ace",
+        "jupiter_edge_plus"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "hdfc_upi_rupay",
+    "card_name": "HDFC UPI RuPay Credit Card",
+    "bank_name": "HDFC Bank",
+    "network": "rupay",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 650,
+      "min_income_salaried": 300000,
+      "min_income_self_employed": 300000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 3.0,
+      "point_value": {
+        "cashback": 1.0
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 3
+      },
+      "groceries": {
+        "rate": 3
+      },
+      "dining": {
+        "rate": 3
+      },
+      "online_shopping": {
+        "rate": 3
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 3
+      },
+      "travel": {
+        "rate": 3
+      },
+      "entertainment": {
+        "rate": 3
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "kiwi_rupay",
+        "kotak_upi_rupay"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "tata_neu_infinity_hdfc",
+    "card_name": "Tata Neu Infinity HDFC Bank Credit Card",
+    "bank_name": "HDFC Bank",
+    "network": "rupay",
+    "card_tier": "mid",
+    "fees": {
+      "annual_fee": 1499,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 300000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 350000,
+      "min_income_self_employed": 350000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 1.0
+      },
+      "welcome_bonus_points": 499,
+      "milestones": [
+        {
+          "spend_threshold": 300000,
+          "bonus_points": 499
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 5
+      },
+      "groceries": {
+        "rate": 5
+      },
+      "dining": {
+        "rate": 5
+      },
+      "online_shopping": {
+        "rate": 5
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 1
+      },
+      "travel": {
+        "rate": 5
+      },
+      "entertainment": {
+        "rate": 5
+      },
+      "pharmacy": {
+        "rate": 5
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 5
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 2
+      },
+      "international_lounge": {
+        "visits_per_year": 2
+      },
+      "travel_insurance": {
+        "air_accident_cover": 10000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "hdfc_millennia",
+        "icici_amazon_pay"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "tata_neu_plus_hdfc",
+    "card_name": "Tata Neu Plus HDFC Bank Credit Card",
+    "bank_name": "HDFC Bank",
+    "network": "rupay",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 499,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 100000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 300000,
+      "min_income_self_employed": 300000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 1.0
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2
+      },
+      "groceries": {
+        "rate": 2
+      },
+      "dining": {
+        "rate": 2
+      },
+      "online_shopping": {
+        "rate": 2
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 1
+      },
+      "travel": {
+        "rate": 2
+      },
+      "entertainment": {
+        "rate": 2
+      },
+      "pharmacy": {
+        "rate": 2
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 2
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 1
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "hdfc_millennia",
+        "axis_ace"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "icici_amazon_pay",
+    "card_name": "Amazon Pay ICICI Credit Card",
+    "bank_name": "ICICI Bank",
+    "network": "visa",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "annual_fee_waiver_threshold": 0
+    },
+    "eligibility": {
+      "min_credit_score": 680,
+      "min_income_salaried": 250000,
+      "min_income_self_employed": 250000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "student",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 1.0
+      },
+      "welcome_bonus_points": 750,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2.0
+      },
+      "groceries": {
+        "rate": 5.0
+      },
+      "dining": {
+        "rate": 2.0
+      },
+      "online_shopping": {
+        "rate": 5.0
+      },
+      "fuel": {
+        "rate": 1.0
+      },
+      "upi": {
+        "rate": 1.0
+      },
+      "travel": {
+        "rate": 2.0
+      },
+      "entertainment": {
+        "rate": 2.0
+      },
+      "pharmacy": {
+        "rate": 2.0
+      },
+      "international_forex": {
+        "rate": 1.0
+      },
+      "rent": {
+        "rate": 1.0
+      },
+      "education": {
+        "rate": 1.0
+      },
+      "tax": {
+        "rate": 1.0
+      },
+      "insurance": {
+        "rate": 1.0
+      },
+      "emi": {
+        "rate": 1.0
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {
+        "program": null
+      }
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback",
+        "build_credit"
+      ],
+      "competes_with": [
+        "axis_ace",
+        "hdfc_millennia"
+      ],
+      "complementary_cards": [
+        "hdfc_regalia"
+      ]
+    }
+  },
+  {
+    "card_id": "icici_emeralde_private_metal",
+    "card_name": "ICICI Emeralde Private Metal Credit Card",
+    "bank_name": "ICICI Bank",
+    "network": "visa",
+    "card_tier": "super_premium",
+    "fees": {
+      "annual_fee": 12000,
+      "is_lifetime_free": false,
+      "joining_fee": 12000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 800,
+      "min_income_salaried": 3000000,
+      "min_income_self_employed": 3000000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false,
+      "invite_only": true
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 6.0,
+      "point_value": {
+        "travel": 1.0,
+        "statement": 0.5
+      },
+      "welcome_bonus_points": 30000,
+      "milestones": [
+        {
+          "spend_threshold": 1000000,
+          "bonus_points": 25000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 6
+      },
+      "groceries": {
+        "rate": 6
+      },
+      "dining": {
+        "rate": 6
+      },
+      "online_shopping": {
+        "rate": 6
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 6
+      },
+      "travel": {
+        "rate": 6
+      },
+      "entertainment": {
+        "rate": 6
+      },
+      "pharmacy": {
+        "rate": 6
+      },
+      "international_forex": {
+        "rate": 6
+      },
+      "rent": {
+        "rate": 2
+      },
+      "education": {
+        "rate": 6
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 6
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 999,
+        "visits_per_year": 999
+      },
+      "international_lounge": {
+        "visits_per_year": 999
+      },
+      "travel_insurance": {
+        "air_accident_cover": 100000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": true,
+        "free_rounds_per_month": 2
+      },
+      "movies": {
+        "free_tickets_per_month": 4
+      },
+      "concierge": true,
+      "ott_subscriptions": true,
+      "dining_program": {
+        "program": "Emeralde Epicure"
+      }
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "premium_lifestyle",
+        "travel"
+      ],
+      "competes_with": [
+        "hdfc_infinia_metal",
+        "yes_private"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "icici_times_black",
+    "card_name": "ICICI Times Black Credit Card",
+    "bank_name": "ICICI Bank",
+    "network": "mastercard",
+    "card_tier": "super_premium",
+    "fees": {
+      "annual_fee": 20000,
+      "is_lifetime_free": false,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 800,
+      "min_income_salaried": 5000000,
+      "min_income_self_employed": 5000000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false,
+      "invite_only": true
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "cashback": 0.25,
+        "travel": 0.5
+      },
+      "welcome_bonus_points": 10000,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2.0
+      },
+      "groceries": {
+        "rate": 2.0
+      },
+      "dining": {
+        "rate": 2.0
+      },
+      "online_shopping": {
+        "rate": 2.0
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 2.0
+      },
+      "travel": {
+        "rate": 2.0
+      },
+      "entertainment": {
+        "rate": 2.0
+      },
+      "pharmacy": {
+        "rate": 2.0
+      },
+      "international_forex": {
+        "rate": 2.0
+      },
+      "rent": {
+        "rate": 1
+      },
+      "education": {
+        "rate": 2.0
+      },
+      "tax": {
+        "rate": 1
+      },
+      "insurance": {
+        "rate": 2.0
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 999
+      },
+      "international_lounge": {
+        "visits_per_year": 999
+      },
+      "travel_insurance": {
+        "air_accident_cover": 100000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": true,
+        "free_rounds_per_month": 2
+      },
+      "movies": {
+        "free_tickets_per_month": 2
+      },
+      "concierge": true,
+      "ott_subscriptions": true,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "premium_lifestyle",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "hdfc_infinia_metal",
+        "icici_emeralde_private_metal"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "icici_coral_rupay",
+    "card_name": "ICICI Coral RuPay Credit Card",
+    "bank_name": "ICICI Bank",
+    "network": "rupay",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 500,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 150000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 350000,
+      "min_income_self_employed": 350000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "cashback": 0.25
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2
+      },
+      "groceries": {
+        "rate": 2
+      },
+      "dining": {
+        "rate": 2
+      },
+      "online_shopping": {
+        "rate": 2
+      },
+      "fuel": {
+        "rate": 1,
+        "monthly_cap_points": 100
+      },
+      "upi": {
+        "rate": 2
+      },
+      "travel": {
+        "rate": 2
+      },
+      "entertainment": {
+        "rate": 2
+      },
+      "pharmacy": {
+        "rate": 2
+      },
+      "international_forex": {
+        "rate": 2
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 2
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 2
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 2
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "kiwi_rupay",
+        "sbi_simplysave_rupay"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "axis_atlas",
+    "card_name": "Axis Bank Atlas Credit Card",
+    "bank_name": "Axis Bank",
+    "network": "mastercard",
+    "card_tier": "premium",
+    "fees": {
+      "annual_fee": 5000,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 750000
+    },
+    "eligibility": {
+      "min_credit_score": 750,
+      "min_income_salaried": 900000,
+      "min_income_self_employed": 900000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "miles",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "air_miles": 1.0,
+        "hotel": 0.8
+      },
+      "welcome_bonus_points": 5000,
+      "milestones": [
+        {
+          "spend_threshold": 750000,
+          "bonus_points": 10000
+        },
+        {
+          "spend_threshold": 1500000,
+          "bonus_points": 15000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2.0
+      },
+      "groceries": {
+        "rate": 2.0
+      },
+      "dining": {
+        "rate": 2.0
+      },
+      "online_shopping": {
+        "rate": 2.0
+      },
+      "fuel": {
+        "rate": 1.0,
+        "monthly_cap_points": 400
+      },
+      "upi": {
+        "rate": 2.0
+      },
+      "travel": {
+        "rate": 5.0
+      },
+      "entertainment": {
+        "rate": 2.0
+      },
+      "pharmacy": {
+        "rate": 2.0
+      },
+      "international_forex": {
+        "rate": 5.0
+      },
+      "rent": {
+        "rate": 1.0
+      },
+      "education": {
+        "rate": 1.0
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1.0
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 4
+      },
+      "international_lounge": {
+        "visits_per_year": 8
+      },
+      "travel_insurance": {
+        "air_accident_cover": 25000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {
+        "program": null
+      }
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "travel",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "hdfc_regalia",
+        "sbi_prime"
+      ],
+      "complementary_cards": [
+        "icici_amazon_pay"
+      ]
+    }
+  },
+  {
+    "card_id": "axis_ace",
+    "card_name": "Axis Bank ACE Credit Card",
+    "bank_name": "Axis Bank",
+    "network": "visa",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "annual_fee_waiver_threshold": 0
+    },
+    "eligibility": {
+      "min_credit_score": 680,
+      "min_income_salaried": 250000,
+      "min_income_self_employed": 250000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "student",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "cashback": 1.0
+      },
+      "welcome_bonus_points": 500,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 4.0
+      },
+      "groceries": {
+        "rate": 2.0
+      },
+      "dining": {
+        "rate": 2.0
+      },
+      "online_shopping": {
+        "rate": 2.0
+      },
+      "fuel": {
+        "rate": 2.0
+      },
+      "upi": {
+        "rate": 5.0
+      },
+      "travel": {
+        "rate": 2.0
+      },
+      "entertainment": {
+        "rate": 2.0
+      },
+      "pharmacy": {
+        "rate": 2.0
+      },
+      "international_forex": {
+        "rate": 1.0
+      },
+      "rent": {
+        "rate": 2.0
+      },
+      "education": {
+        "rate": 2.0
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 2.0
+      },
+      "emi": {
+        "rate": 1.0
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 1
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {
+        "program": null
+      }
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback",
+        "build_credit"
+      ],
+      "competes_with": [
+        "icici_amazon_pay",
+        "hdfc_millennia"
+      ],
+      "complementary_cards": [
+        "axis_atlas"
+      ]
+    }
+  },
+  {
+    "card_id": "axis_indianoil",
+    "card_name": "Axis Indian Oil Credit Card",
+    "bank_name": "Axis Bank",
+    "network": "rupay",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 500,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 150000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 350000,
+      "min_income_self_employed": 350000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 0.25
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 1
+      },
+      "groceries": {
+        "rate": 1
+      },
+      "dining": {
+        "rate": 1
+      },
+      "online_shopping": {
+        "rate": 1
+      },
+      "fuel": {
+        "rate": 20,
+        "monthly_cap_points": 2000
+      },
+      "upi": {
+        "rate": 1
+      },
+      "travel": {
+        "rate": 1
+      },
+      "entertainment": {
+        "rate": 1
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "sbi_bpcl_octane",
+        "bob_hpcl_energie"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "axis_supermoney_rupay",
+    "card_name": "Axis Bank SuperMoney RuPay Credit Card",
+    "bank_name": "Axis Bank",
+    "network": "rupay",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 650,
+      "min_income_salaried": 300000,
+      "min_income_self_employed": 300000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 1.5,
+      "point_value": {
+        "cashback": 1.0
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 5
+      },
+      "groceries": {
+        "rate": 5
+      },
+      "dining": {
+        "rate": 3
+      },
+      "online_shopping": {
+        "rate": 3
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 3
+      },
+      "travel": {
+        "rate": 1
+      },
+      "entertainment": {
+        "rate": 1
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "hdfc_upi_rupay",
+        "kiwi_rupay"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "sbi_prime",
+    "card_name": "SBI Card PRIME",
+    "bank_name": "State Bank of India",
+    "network": "visa",
+    "card_tier": "mid",
+    "fees": {
+      "annual_fee": 2999,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 300000
+    },
+    "eligibility": {
+      "min_credit_score": 720,
+      "min_income_salaried": 500000,
+      "min_income_self_employed": 600000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "statement": 0.25,
+        "travel": 0.5
+      },
+      "welcome_bonus_points": 3000,
+      "milestones": [
+        {
+          "spend_threshold": 300000,
+          "bonus_points": 7500
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 10.0
+      },
+      "groceries": {
+        "rate": 10.0
+      },
+      "dining": {
+        "rate": 10.0
+      },
+      "online_shopping": {
+        "rate": 10.0
+      },
+      "fuel": {
+        "rate": 1.0,
+        "monthly_cap_points": 500
+      },
+      "upi": {
+        "rate": 2.0
+      },
+      "travel": {
+        "rate": 10.0
+      },
+      "entertainment": {
+        "rate": 10.0
+      },
+      "pharmacy": {
+        "rate": 2.0
+      },
+      "international_forex": {
+        "rate": 2.0
+      },
+      "rent": {
+        "rate": 2.0
+      },
+      "education": {
+        "rate": 2.0
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 2.0
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 2
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 5000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {
+        "program": null
+      }
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "hdfc_regalia",
+        "axis_atlas"
+      ],
+      "complementary_cards": [
+        "icici_amazon_pay"
+      ]
+    }
+  },
+  {
+    "card_id": "sbi_simply_click",
+    "card_name": "SBI SimplyCLICK Credit Card",
+    "bank_name": "State Bank of India",
+    "network": "visa",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 499,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 100000
+    },
+    "eligibility": {
+      "min_credit_score": 680,
+      "min_income_salaried": 240000,
+      "min_income_self_employed": 240000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "statement": 0.25,
+        "evoucher": 0.25
+      },
+      "welcome_bonus_points": 500,
+      "milestones": [
+        {
+          "spend_threshold": 100000,
+          "bonus_points": 2000
+        },
+        {
+          "spend_threshold": 200000,
+          "bonus_points": 4000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 10.0
+      },
+      "groceries": {
+        "rate": 5.0
+      },
+      "dining": {
+        "rate": 5.0
+      },
+      "online_shopping": {
+        "rate": 10.0
+      },
+      "fuel": {
+        "rate": 1.0,
+        "monthly_cap_points": 200
+      },
+      "upi": {
+        "rate": 1.0
+      },
+      "travel": {
+        "rate": 10.0
+      },
+      "entertainment": {
+        "rate": 10.0
+      },
+      "pharmacy": {
+        "rate": 5.0
+      },
+      "international_forex": {
+        "rate": 1.0
+      },
+      "rent": {
+        "rate": 1.0
+      },
+      "education": {
+        "rate": 1.0
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1.0
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {
+        "program": null
+      }
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "hdfc_millennia",
+        "axis_ace"
+      ],
+      "complementary_cards": [
+        "sbi_prime"
+      ]
+    }
+  },
+  {
+    "card_id": "sbi_bpcl_octane",
+    "card_name": "SBI BPCL Octane Credit Card",
+    "bank_name": "SBI Card",
+    "network": "visa",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 1499,
+      "is_lifetime_free": false,
+      "joining_fee": 1499,
+      "annual_fee_waiver_threshold": 200000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 750,
+      "min_income_salaried": 600000,
+      "min_income_self_employed": 900000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 0.25,
+        "travel": 0.25
+      },
+      "welcome_bonus_points": 6000,
+      "milestones": [
+        {
+          "spend_threshold": 300000,
+          "bonus_points": 8000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 10
+      },
+      "groceries": {
+        "rate": 10
+      },
+      "dining": {
+        "rate": 10
+      },
+      "online_shopping": {
+        "rate": 1
+      },
+      "fuel": {
+        "rate": 25,
+        "monthly_cap_points": 2500
+      },
+      "upi": {
+        "rate": 1
+      },
+      "travel": {
+        "rate": 1
+      },
+      "entertainment": {
+        "rate": 10
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 4
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 10000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "rbl_indianoil_xtra",
+        "idfc_power_plus"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "sbi_simplysave_rupay",
+    "card_name": "SBI SimplySAVE RuPay Credit Card",
+    "bank_name": "State Bank of India",
+    "network": "rupay",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 499,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 100000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 650,
+      "min_income_salaried": 200000,
+      "min_income_self_employed": 200000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 0.25
+      },
+      "welcome_bonus_points": 2000,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 10
+      },
+      "groceries": {
+        "rate": 10
+      },
+      "dining": {
+        "rate": 10
+      },
+      "online_shopping": {
+        "rate": 1
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 1
+      },
+      "travel": {
+        "rate": 1
+      },
+      "entertainment": {
+        "rate": 1
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "axis_ace",
+        "kiwi_rupay"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "sbi_cashback",
+    "card_name": "SBI Cashback Credit Card",
+    "bank_name": "State Bank of India",
+    "network": "visa",
+    "card_tier": "mid",
+    "fees": {
+      "annual_fee": 999,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 200000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 400000,
+      "min_income_self_employed": 400000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 1.0
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 5
+      },
+      "groceries": {
+        "rate": 5
+      },
+      "dining": {
+        "rate": 5
+      },
+      "online_shopping": {
+        "rate": 5
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 1
+      },
+      "travel": {
+        "rate": 5
+      },
+      "entertainment": {
+        "rate": 5
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "axis_ace",
+        "icici_amazon_pay"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "amex_mrcc",
+    "card_name": "American Express Membership Rewards Credit Card",
+    "bank_name": "American Express",
+    "network": "amex",
+    "card_tier": "mid",
+    "fees": {
+      "annual_fee": 1500,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 150000
+    },
+    "eligibility": {
+      "min_credit_score": 720,
+      "min_income_salaried": 600000,
+      "min_income_self_employed": 600000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "transfer_partner": 1.0,
+        "gold_collection": 0.5
+      },
+      "welcome_bonus_points": 4000,
+      "milestones": [
+        {
+          "spend_threshold": 150000,
+          "bonus_points": 9000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2.0
+      },
+      "groceries": {
+        "rate": 2.0
+      },
+      "dining": {
+        "rate": 2.0
+      },
+      "online_shopping": {
+        "rate": 2.0
+      },
+      "fuel": {
+        "rate": 2.0
+      },
+      "upi": {
+        "rate": 2.0
+      },
+      "travel": {
+        "rate": 2.0
+      },
+      "entertainment": {
+        "rate": 2.0
+      },
+      "pharmacy": {
+        "rate": 2.0
+      },
+      "international_forex": {
+        "rate": 2.0
+      },
+      "rent": {
+        "rate": 2.0
+      },
+      "education": {
+        "rate": 2.0
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 2.0
+      },
+      "emi": {
+        "rate": 2.0
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {
+        "program": null
+      }
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": false,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "hdfc_regalia",
+        "sbi_prime"
+      ],
+      "complementary_cards": [
+        "axis_atlas"
+      ]
+    }
+  },
+  {
+    "card_id": "amex_platinum_travel",
+    "card_name": "American Express Platinum Travel Credit Card",
+    "bank_name": "American Express",
+    "network": "amex",
+    "card_tier": "premium",
+    "fees": {
+      "annual_fee": 5000,
+      "is_lifetime_free": false,
+      "joining_fee": 5000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 750,
+      "min_income_salaried": 1800000,
+      "min_income_self_employed": 1800000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "travel": 0.5,
+        "cashback": 0.25
+      },
+      "welcome_bonus_points": 5000,
+      "milestones": [
+        {
+          "spend_threshold": 190000,
+          "bonus_points": 7500
+        },
+        {
+          "spend_threshold": 400000,
+          "bonus_points": 11000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 1.0
+      },
+      "groceries": {
+        "rate": 1.0
+      },
+      "dining": {
+        "rate": 1.0
+      },
+      "online_shopping": {
+        "rate": 1.0
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 1.0
+      },
+      "travel": {
+        "rate": 1.0
+      },
+      "entertainment": {
+        "rate": 1.0
+      },
+      "pharmacy": {
+        "rate": 1.0
+      },
+      "international_forex": {
+        "rate": 1.0
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1.0
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1.0
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 4
+      },
+      "international_lounge": {
+        "visits_per_year": 3
+      },
+      "travel_insurance": {
+        "air_accident_cover": 10000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": true,
+      "ott_subscriptions": true,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "travel",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "axis_atlas",
+        "hdfc_regalia"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "idfc_first_classic",
+    "card_name": "IDFC FIRST Classic Credit Card",
+    "bank_name": "IDFC FIRST Bank",
+    "network": "visa",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "annual_fee_waiver_threshold": 0
+    },
+    "eligibility": {
+      "min_credit_score": 650,
+      "min_income_salaried": 180000,
+      "min_income_self_employed": 200000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "student",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "statement": 0.25
+      },
+      "welcome_bonus_points": 500,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 3.0
+      },
+      "groceries": {
+        "rate": 3.0
+      },
+      "dining": {
+        "rate": 6.0
+      },
+      "online_shopping": {
+        "rate": 3.0
+      },
+      "fuel": {
+        "rate": 1.0,
+        "monthly_cap_points": 200
+      },
+      "upi": {
+        "rate": 1.0
+      },
+      "travel": {
+        "rate": 3.0
+      },
+      "entertainment": {
+        "rate": 3.0
+      },
+      "pharmacy": {
+        "rate": 3.0
+      },
+      "international_forex": {
+        "rate": 3.0
+      },
+      "rent": {
+        "rate": 1.0
+      },
+      "education": {
+        "rate": 1.0
+      },
+      "tax": {
+        "rate": 1.0
+      },
+      "insurance": {
+        "rate": 1.0
+      },
+      "emi": {
+        "rate": 1.0
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 1
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 1
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {
+        "program": null
+      }
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "build_credit",
+        "cashback"
+      ],
+      "competes_with": [
+        "axis_ace",
+        "icici_amazon_pay"
+      ],
+      "complementary_cards": [
+        "hdfc_regalia"
+      ]
+    }
+  },
+  {
+    "card_id": "idfc_wow",
+    "card_name": "IDFC FIRST WOW Credit Card",
+    "bank_name": "IDFC FIRST Bank",
+    "network": "visa",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 650,
+      "min_income_salaried": 200000,
+      "min_income_self_employed": 200000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 3.0,
+      "point_value": {
+        "cashback": 0.25,
+        "travel": 0.5
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 6
+      },
+      "groceries": {
+        "rate": 6
+      },
+      "dining": {
+        "rate": 6
+      },
+      "online_shopping": {
+        "rate": 6
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 6
+      },
+      "travel": {
+        "rate": 6
+      },
+      "entertainment": {
+        "rate": 6
+      },
+      "pharmacy": {
+        "rate": 3
+      },
+      "international_forex": {
+        "rate": 6
+      },
+      "rent": {
+        "rate": 1
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 3
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "travel",
+        "cashback"
+      ],
+      "competes_with": [
+        "scapia",
+        "au_ixigo"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "idfc_power_plus",
+    "card_name": "IDFC FIRST Power+ Credit Card",
+    "bank_name": "IDFC FIRST Bank",
+    "network": "visa",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 999,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 200000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 350000,
+      "min_income_self_employed": 350000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 0.25
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 1
+      },
+      "groceries": {
+        "rate": 1
+      },
+      "dining": {
+        "rate": 1
+      },
+      "online_shopping": {
+        "rate": 1
+      },
+      "fuel": {
+        "rate": 10,
+        "monthly_cap_points": 300
+      },
+      "upi": {
+        "rate": 1
+      },
+      "travel": {
+        "rate": 1
+      },
+      "entertainment": {
+        "rate": 1
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 4
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "sbi_bpcl_octane",
+        "rbl_indianoil_xtra"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "idfc_club_vistara",
+    "card_name": "IDFC FIRST Club Vistara Credit Card",
+    "bank_name": "IDFC FIRST Bank",
+    "network": "visa",
+    "card_tier": "premium",
+    "fees": {
+      "annual_fee": 2499,
+      "is_lifetime_free": false,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 750,
+      "min_income_salaried": 800000,
+      "min_income_self_employed": 800000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "miles",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "travel": 0.5,
+        "cashback": 0.25
+      },
+      "welcome_bonus_points": 5000,
+      "milestones": [
+        {
+          "spend_threshold": 300000,
+          "bonus_points": 5000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2
+      },
+      "groceries": {
+        "rate": 2
+      },
+      "dining": {
+        "rate": 2
+      },
+      "online_shopping": {
+        "rate": 2
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 2
+      },
+      "travel": {
+        "rate": 6
+      },
+      "entertainment": {
+        "rate": 2
+      },
+      "pharmacy": {
+        "rate": 2
+      },
+      "international_forex": {
+        "rate": 4
+      },
+      "rent": {
+        "rate": 1
+      },
+      "education": {
+        "rate": 2
+      },
+      "tax": {
+        "rate": 1
+      },
+      "insurance": {
+        "rate": 2
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 2
+      },
+      "international_lounge": {
+        "visits_per_year": 2
+      },
+      "travel_insurance": {
+        "air_accident_cover": 10000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "travel",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "axis_atlas",
+        "amex_platinum_travel"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "sc_ultimate",
+    "card_name": "Standard Chartered Ultimate Credit Card",
+    "bank_name": "Standard Chartered",
+    "network": "visa",
+    "card_tier": "premium",
+    "fees": {
+      "annual_fee": 5000,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 500000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 750,
+      "min_income_salaried": 1200000,
+      "min_income_self_employed": 1200000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 3.33,
+      "point_value": {
+        "cashback": 1.0,
+        "travel": 1.0
+      },
+      "welcome_bonus_points": 5000,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 3.33
+      },
+      "groceries": {
+        "rate": 3.33
+      },
+      "dining": {
+        "rate": 3.33
+      },
+      "online_shopping": {
+        "rate": 3.33
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 3.33
+      },
+      "travel": {
+        "rate": 3.33
+      },
+      "entertainment": {
+        "rate": 3.33
+      },
+      "pharmacy": {
+        "rate": 3.33
+      },
+      "international_forex": {
+        "rate": 3.33
+      },
+      "rent": {
+        "rate": 1
+      },
+      "education": {
+        "rate": 3.33
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 3.33
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 2
+      },
+      "international_lounge": {
+        "visits_per_year": 6
+      },
+      "travel_insurance": {
+        "air_accident_cover": 25000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": true,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "maximize_rewards",
+        "travel"
+      ],
+      "competes_with": [
+        "hdfc_regalia",
+        "axis_atlas"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "hsbc_taj",
+    "card_name": "HSBC Taj Credit Card",
+    "bank_name": "HSBC",
+    "network": "visa",
+    "card_tier": "premium",
+    "fees": {
+      "annual_fee": 5000,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 500000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 750,
+      "min_income_salaried": 1800000,
+      "min_income_self_employed": 1800000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "travel": 0.66,
+        "cashback": 0.33
+      },
+      "welcome_bonus_points": 8000,
+      "milestones": [
+        {
+          "spend_threshold": 300000,
+          "bonus_points": 5000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2
+      },
+      "groceries": {
+        "rate": 2
+      },
+      "dining": {
+        "rate": 6
+      },
+      "online_shopping": {
+        "rate": 2
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 2
+      },
+      "travel": {
+        "rate": 6
+      },
+      "entertainment": {
+        "rate": 2
+      },
+      "pharmacy": {
+        "rate": 2
+      },
+      "international_forex": {
+        "rate": 4
+      },
+      "rent": {
+        "rate": 1
+      },
+      "education": {
+        "rate": 2
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 2
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 2
+      },
+      "international_lounge": {
+        "visits_per_year": 2
+      },
+      "travel_insurance": {
+        "air_accident_cover": 25000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": true,
+        "free_rounds_per_month": 2
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": true,
+      "ott_subscriptions": false,
+      "dining_program": {
+        "program": "Taj Epicure"
+      }
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "premium_lifestyle",
+        "travel"
+      ],
+      "competes_with": [
+        "icici_emeralde_private_metal",
+        "hdfc_regalia_gold"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "hsbc_premier",
+    "card_name": "HSBC Premier Credit Card",
+    "bank_name": "HSBC",
+    "network": "visa",
+    "card_tier": "premium",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 750,
+      "min_income_salaried": 1500000,
+      "min_income_self_employed": 1500000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": true
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "travel": 1.0,
+        "cashback": 0.5
+      },
+      "welcome_bonus_points": 10000,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2
+      },
+      "groceries": {
+        "rate": 2
+      },
+      "dining": {
+        "rate": 4
+      },
+      "online_shopping": {
+        "rate": 2
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 2
+      },
+      "travel": {
+        "rate": 4
+      },
+      "entertainment": {
+        "rate": 2
+      },
+      "pharmacy": {
+        "rate": 2
+      },
+      "international_forex": {
+        "rate": 4
+      },
+      "rent": {
+        "rate": 1
+      },
+      "education": {
+        "rate": 2
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 2
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 4
+      },
+      "international_lounge": {
+        "visits_per_year": 6
+      },
+      "travel_insurance": {
+        "air_accident_cover": 50000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": true,
+        "free_rounds_per_month": 2
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": true,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "travel",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "hdfc_regalia",
+        "sc_ultimate"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "hsbc_premier_metal",
+    "card_name": "HSBC Premier Metal Credit Card",
+    "bank_name": "HSBC",
+    "network": "visa",
+    "card_tier": "super_premium",
+    "fees": {
+      "annual_fee": 50000,
+      "is_lifetime_free": false,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 800,
+      "min_income_salaried": 5000000,
+      "min_income_self_employed": 5000000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": true
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 3.0,
+      "point_value": {
+        "travel": 1.0,
+        "cashback": 0.5
+      },
+      "welcome_bonus_points": 25000,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 3.0
+      },
+      "groceries": {
+        "rate": 3.0
+      },
+      "dining": {
+        "rate": 3.0
+      },
+      "online_shopping": {
+        "rate": 3.0
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 3.0
+      },
+      "travel": {
+        "rate": 3.0
+      },
+      "entertainment": {
+        "rate": 3.0
+      },
+      "pharmacy": {
+        "rate": 3.0
+      },
+      "international_forex": {
+        "rate": 3.0
+      },
+      "rent": {
+        "rate": 1
+      },
+      "education": {
+        "rate": 3.0
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 3.0
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 999
+      },
+      "international_lounge": {
+        "visits_per_year": 999
+      },
+      "travel_insurance": {
+        "air_accident_cover": 100000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": true,
+        "free_rounds_per_month": 2
+      },
+      "movies": {
+        "free_tickets_per_month": 2
+      },
+      "concierge": true,
+      "ott_subscriptions": true,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "premium_lifestyle",
+        "travel",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "hdfc_infinia_metal",
+        "yes_private"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "hsbc_rupay_cashback",
+    "card_name": "HSBC RuPay Cashback Credit Card",
+    "bank_name": "HSBC",
+    "network": "rupay",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 400000,
+      "min_income_self_employed": 400000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 1.5,
+      "point_value": {
+        "cashback": 1.0
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 1.5
+      },
+      "groceries": {
+        "rate": 1.5
+      },
+      "dining": {
+        "rate": 1.5
+      },
+      "online_shopping": {
+        "rate": 1.5
+      },
+      "fuel": {
+        "rate": 1.5
+      },
+      "upi": {
+        "rate": 1.5
+      },
+      "travel": {
+        "rate": 1.5
+      },
+      "entertainment": {
+        "rate": 1.5
+      },
+      "pharmacy": {
+        "rate": 1.5
+      },
+      "international_forex": {
+        "rate": 1.5
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1.5
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1.5
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "hdfc_upi_rupay",
+        "kotak_upi_rupay"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "yes_private",
+    "card_name": "YES Private Credit Card",
+    "bank_name": "YES BANK",
+    "network": "visa",
+    "card_tier": "super_premium",
+    "fees": {
+      "annual_fee": 10000,
+      "is_lifetime_free": false,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 800,
+      "min_income_salaried": 2500000,
+      "min_income_self_employed": 2500000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false,
+      "invite_only": true
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 3.0,
+      "point_value": {
+        "travel": 1.0,
+        "cashback": 0.5
+      },
+      "welcome_bonus_points": 15000,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 3
+      },
+      "groceries": {
+        "rate": 3
+      },
+      "dining": {
+        "rate": 6
+      },
+      "online_shopping": {
+        "rate": 3
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 3
+      },
+      "travel": {
+        "rate": 9
+      },
+      "entertainment": {
+        "rate": 3
+      },
+      "pharmacy": {
+        "rate": 3
+      },
+      "international_forex": {
+        "rate": 6
+      },
+      "rent": {
+        "rate": 1
+      },
+      "education": {
+        "rate": 3
+      },
+      "tax": {
+        "rate": 1
+      },
+      "insurance": {
+        "rate": 3
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 999
+      },
+      "international_lounge": {
+        "visits_per_year": 999
+      },
+      "travel_insurance": {
+        "air_accident_cover": 100000000
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": true,
+        "free_rounds_per_month": 2
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": true,
+      "ott_subscriptions": true,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "premium_lifestyle",
+        "travel"
+      ],
+      "competes_with": [
+        "hdfc_infinia_metal",
+        "icici_emeralde_private_metal"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "kotak_upi_rupay",
+    "card_name": "Kotak UPI RuPay Credit Card",
+    "bank_name": "Kotak Mahindra Bank",
+    "network": "rupay",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 650,
+      "min_income_salaried": 300000,
+      "min_income_self_employed": 300000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 1.0
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 1.0
+      },
+      "groceries": {
+        "rate": 1.0
+      },
+      "dining": {
+        "rate": 1.0
+      },
+      "online_shopping": {
+        "rate": 1.0
+      },
+      "fuel": {
+        "rate": 1.0
+      },
+      "upi": {
+        "rate": 1.0
+      },
+      "travel": {
+        "rate": 1.0
+      },
+      "entertainment": {
+        "rate": 1.0
+      },
+      "pharmacy": {
+        "rate": 1.0
+      },
+      "international_forex": {
+        "rate": 1.0
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1.0
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1.0
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "hdfc_upi_rupay",
+        "kiwi_rupay"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "rbl_indianoil_xtra",
+    "card_name": "RBL IndianOil XTRA Credit Card",
+    "bank_name": "RBL Bank",
+    "network": "visa",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 1500,
+      "is_lifetime_free": false,
+      "joining_fee": 1500,
+      "annual_fee_waiver_threshold": 275000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 750,
+      "min_income_salaried": 600000,
+      "min_income_self_employed": 900000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "cashback": 0.5,
+        "travel": 0.1
+      },
+      "welcome_bonus_points": 3000,
+      "milestones": [
+        {
+          "spend_threshold": 100000,
+          "bonus_points": 1000
+        }
+      ]
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2
+      },
+      "groceries": {
+        "rate": 2
+      },
+      "dining": {
+        "rate": 2
+      },
+      "online_shopping": {
+        "rate": 2
+      },
+      "fuel": {
+        "rate": 15,
+        "monthly_cap_points": 2000
+      },
+      "upi": {
+        "rate": 2
+      },
+      "travel": {
+        "rate": 2
+      },
+      "entertainment": {
+        "rate": 2
+      },
+      "pharmacy": {
+        "rate": 2
+      },
+      "international_forex": {
+        "rate": 2
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 2
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 2
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 2
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "sbi_bpcl_octane",
+        "idfc_power_plus"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "bob_hpcl_energie",
+    "card_name": "Bank of Baroda HPCL Energie Credit Card",
+    "bank_name": "Bank of Baroda",
+    "network": "rupay",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 499,
+      "is_lifetime_free": false,
+      "annual_fee_waiver_threshold": 150000,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 350000,
+      "min_income_self_employed": 350000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 0.25
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 5
+      },
+      "groceries": {
+        "rate": 5
+      },
+      "dining": {
+        "rate": 5
+      },
+      "online_shopping": {
+        "rate": 1
+      },
+      "fuel": {
+        "rate": 10,
+        "monthly_cap_points": 1500
+      },
+      "upi": {
+        "rate": 1
+      },
+      "travel": {
+        "rate": 1
+      },
+      "entertainment": {
+        "rate": 1
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback"
+      ],
+      "competes_with": [
+        "sbi_bpcl_octane",
+        "idfc_power_plus"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "au_ixigo",
+    "card_name": "AU ixigo Credit Card",
+    "bank_name": "AU Small Finance Bank",
+    "network": "rupay",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 300000,
+      "min_income_self_employed": 300000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "travel": 0.5,
+        "cashback": 0.25
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2
+      },
+      "groceries": {
+        "rate": 2
+      },
+      "dining": {
+        "rate": 2
+      },
+      "online_shopping": {
+        "rate": 2
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 2
+      },
+      "travel": {
+        "rate": 10,
+        "monthly_cap_points": 2000
+      },
+      "entertainment": {
+        "rate": 2
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 4
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 1
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "travel"
+      ],
+      "competes_with": [
+        "scapia",
+        "idfc_wow"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "equitas_powermiles",
+    "card_name": "Equitas Powermiles Credit Card",
+    "bank_name": "Equitas Small Finance Bank",
+    "network": "visa",
+    "card_tier": "mid",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 300000,
+      "min_income_self_employed": 300000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "miles",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "travel": 1.0,
+        "cashback": 0.25
+      },
+      "welcome_bonus_points": 2000,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2
+      },
+      "groceries": {
+        "rate": 2
+      },
+      "dining": {
+        "rate": 4
+      },
+      "online_shopping": {
+        "rate": 2
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 2
+      },
+      "travel": {
+        "rate": 6
+      },
+      "entertainment": {
+        "rate": 2
+      },
+      "pharmacy": {
+        "rate": 2
+      },
+      "international_forex": {
+        "rate": 4
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 2
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 2
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 2
+      },
+      "international_lounge": {
+        "visits_per_year": 2
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "travel"
+      ],
+      "competes_with": [
+        "scapia",
+        "idfc_wow"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "scapia",
+    "card_name": "Scapia Credit Card",
+    "bank_name": "Federal Bank",
+    "network": "visa",
+    "card_tier": "mid",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 700,
+      "min_income_salaried": 400000,
+      "min_income_self_employed": 400000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 10.0,
+      "point_value": {
+        "cashback": 0.2,
+        "travel_portal": 1.0
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 2
+      },
+      "groceries": {
+        "rate": 2
+      },
+      "dining": {
+        "rate": 2
+      },
+      "online_shopping": {
+        "rate": 2
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 1
+      },
+      "travel": {
+        "rate": 10
+      },
+      "entertainment": {
+        "rate": 2
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 10
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_quarter": 2
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": false,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "travel",
+        "cashback"
+      ],
+      "competes_with": [
+        "idfc_wow",
+        "au_ixigo"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "kiwi_rupay",
+    "card_name": "Kiwi RuPay Credit Card",
+    "bank_name": "SBM Bank",
+    "network": "rupay",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 650,
+      "min_income_salaried": 300000,
+      "min_income_self_employed": 300000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "points",
+      "base_earn_rate": 1.0,
+      "point_value": {
+        "cashback": 0.25
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 3
+      },
+      "groceries": {
+        "rate": 3
+      },
+      "dining": {
+        "rate": 3
+      },
+      "online_shopping": {
+        "rate": 3
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 3
+      },
+      "travel": {
+        "rate": 3
+      },
+      "entertainment": {
+        "rate": 3
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "hdfc_upi_rupay",
+        "kotak_upi_rupay"
+      ],
+      "complementary_cards": []
+    }
+  },
+  {
+    "card_id": "jupiter_edge_plus",
+    "card_name": "Jupiter Edge+ Credit Card",
+    "bank_name": "CSB Bank (Jupiter)",
+    "network": "rupay",
+    "card_tier": "entry",
+    "fees": {
+      "annual_fee": 0,
+      "is_lifetime_free": true,
+      "forex_markup_pct": 3.5
+    },
+    "eligibility": {
+      "min_credit_score": 650,
+      "min_income_salaried": 300000,
+      "min_income_self_employed": 300000,
+      "eligible_employment": [
+        "salaried",
+        "self_employed",
+        "business_owner"
+      ],
+      "parent_bank_required": false
+    },
+    "rewards": {
+      "reward_type": "cashback",
+      "base_earn_rate": 2.0,
+      "point_value": {
+        "cashback": 1.0
+      },
+      "welcome_bonus_points": 0,
+      "milestones": []
+    },
+    "category_rates": {
+      "food_delivery": {
+        "rate": 5
+      },
+      "groceries": {
+        "rate": 5
+      },
+      "dining": {
+        "rate": 5
+      },
+      "online_shopping": {
+        "rate": 5
+      },
+      "fuel": {
+        "rate": 1
+      },
+      "upi": {
+        "rate": 5
+      },
+      "travel": {
+        "rate": 2
+      },
+      "entertainment": {
+        "rate": 2
+      },
+      "pharmacy": {
+        "rate": 1
+      },
+      "international_forex": {
+        "rate": 1
+      },
+      "rent": {
+        "excluded": true
+      },
+      "education": {
+        "rate": 1
+      },
+      "tax": {
+        "excluded": true
+      },
+      "insurance": {
+        "rate": 1
+      },
+      "emi": {
+        "excluded": true
+      }
+    },
+    "travel_benefits": {
+      "domestic_lounge": {
+        "visits_per_year": 0
+      },
+      "international_lounge": {
+        "visits_per_year": 0
+      },
+      "travel_insurance": {
+        "air_accident_cover": 0
+      }
+    },
+    "lifestyle_benefits": {
+      "golf": {
+        "available": false,
+        "free_rounds_per_month": 0
+      },
+      "movies": {
+        "free_tickets_per_month": 0
+      },
+      "concierge": false,
+      "ott_subscriptions": false,
+      "dining_program": {}
+    },
+    "digital": {
+      "upi_credit_card": true,
+      "google_pay": true,
+      "no_cost_emi": true,
+      "virtual_card": true
+    },
+    "engine_meta": {
+      "best_for_profile": [
+        "cashback",
+        "maximize_rewards"
+      ],
+      "competes_with": [
+        "axis_ace",
+        "hdfc_millennia"
+      ],
+      "complementary_cards": []
+    }
+  }
+]

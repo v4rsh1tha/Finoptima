@@ -1,0 +1,67 @@
+{
+  "intent_adjacency": {
+    "maximize_rewards": {
+      "maximize_rewards": 100,
+      "cashback": 60,
+      "travel": 55,
+      "build_credit": 10,
+      "low_interest": 20,
+      "business": 40,
+      "premium_lifestyle": 70
+    },
+    "cashback": {
+      "maximize_rewards": 60,
+      "cashback": 100,
+      "travel": 30,
+      "build_credit": 10,
+      "low_interest": 25,
+      "business": 35,
+      "premium_lifestyle": 40
+    },
+    "travel": {
+      "maximize_rewards": 55,
+      "cashback": 30,
+      "travel": 100,
+      "build_credit": 5,
+      "low_interest": 15,
+      "business": 30,
+      "premium_lifestyle": 75
+    },
+    "premium_lifestyle": {
+      "maximize_rewards": 70,
+      "cashback": 40,
+      "travel": 75,
+      "build_credit": 5,
+      "low_interest": 10,
+      "business": 50,
+      "premium_lifestyle": 100
+    },
+    "build_credit": {
+      "maximize_rewards": 10,
+      "cashback": 15,
+      "travel": 5,
+      "build_credit": 100,
+      "low_interest": 45,
+      "business": 5,
+      "premium_lifestyle": 5
+    },
+    "low_interest": {
+      "maximize_rewards": 20,
+      "cashback": 25,
+      "travel": 15,
+      "build_credit": 45,
+      "low_interest": 100,
+      "business": 15,
+      "premium_lifestyle": 10
+    },
+    "business": {
+      "maximize_rewards": 40,
+      "cashback": 35,
+      "travel": 30,
+      "build_credit": 5,
+      "low_interest": 15,
+      "business": 100,
+      "premium_lifestyle": 50
+    }
+  }
+}

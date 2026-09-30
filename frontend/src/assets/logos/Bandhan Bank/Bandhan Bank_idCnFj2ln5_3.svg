@@ -1,0 +1,74 @@
+<svg version="1.1" id="svg4485" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 160 160" style="enable-background:new 0 0 160 160;" xml:space="preserve">
+ <style type="text/css">
+  .st0{clip-path:url(#SVGID_00000111179772791713655810000003589645926632504730_);}
+	.st1{fill:url(#path4719_00000025441482510452863480000005194269721035689134_);}
+	.st2{clip-path:url(#SVGID_00000073700716741040576610000002567306958038357130_);}
+	.st3{fill:url(#path4743_00000173840489418822013930000011660786863516512641_);}
+	.st4{fill:#FFFFFF;}
+ </style>
+ <g id="g4697" transform="translate(-30.620339,-782.97246)">
+  <g>
+   <g>
+    <defs>
+     <polyline id="SVGID_1_" points="116.2,790 181.6,868.9 103.1,934 37.6,855.2 				">
+     </polyline>
+    </defs>
+    <clipPath id="SVGID_00000055676253345050181630000014889040145709434767_">
+     <use href="#SVGID_1_" style="overflow:visible;">
+     </use>
+    </clipPath>
+    <g id="g4699" style="clip-path:url(#SVGID_00000055676253345050181630000014889040145709434767_);">
+     <g id="g4705">
+      <g id="g4711">
+       <linearGradient id="path4719_00000134217899966064186180000016782971665800650637_" gradientUnits="userSpaceOnUse" x1="295.416" y1="202.3647" x2="298.0041" y2="202.3647" gradientTransform="matrix(23.8524 28.7537 28.7537 -23.8524 -12791.1338 -2839.8447)">
+        <stop offset="0" style="stop-color:#EF3B23">
+        </stop>
+        <stop offset="1" style="stop-color:#8B131E">
+        </stop>
+       </linearGradient>
+       <path id="path4719" style="fill:url(#path4719_00000134217899966064186180000016782971665800650637_);" d="M110.2,824.9
+							c-20,0.5-36,16.9-36,37.1c0,20.5,16.7,37.1,37.1,37.1c6.8,0,25.2-2.8,33.9-22c-3.7,1.5-7.7,2.4-12,2.4
+							c-17.7,0-32-11.5-32-29.2c0-9.1,2.7-16.4,6.9-21.7c0.8-1.1,2.3-2.7,3.2-3.6C111.1,824.9,110.2,824.9,110.2,824.9">
+       </path>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g id="g4721" transform="translate(-30.620339,-782.97246)">
+  <g>
+   <g>
+    <defs>
+     <rect id="SVGID_00000006706071905838666530000009954121466493312920_" x="65.5" y="812.5" width="94.7" height="98.9">
+     </rect>
+    </defs>
+    <clipPath id="SVGID_00000005965753979262692070000009131689203205558669_">
+     <use xlink:href="#SVGID_00000006706071905838666530000009954121466493312920_" style="overflow:visible;">
+     </use>
+    </clipPath>
+    <g id="g4723" style="clip-path:url(#SVGID_00000005965753979262692070000009131689203205558669_);">
+     <g id="g4729">
+      <g id="g4735">
+       <linearGradient id="path4743_00000120525361411509274530000007150343246612081543_" gradientUnits="userSpaceOnUse" x1="291.6442" y1="207.2183" x2="294.2323" y2="207.2183" gradientTransform="matrix(32.0249 0 0 -32.0249 -9265.3535 7498.2593)">
+        <stop offset="0" style="stop-color:#B7212F">
+        </stop>
+        <stop offset="1" style="stop-color:#EF3B23">
+        </stop>
+       </linearGradient>
+       <path id="path4743" style="fill:url(#path4743_00000120525361411509274530000007150343246612081543_);" d="M114.6,828.5
+							c5.6,7.5,6.8,14.5,6.8,21.9c0,17.7-14.3,29.2-32,29.2c-4.3,0-8.3-0.8-12-2.4c8.8,19.6,27.1,22,33.9,22
+							c20.5,0,37.1-16.7,37.1-37.1c0-20.1-16-36.4-36-37.1h-1.1C112.2,825.8,113.8,827.4,114.6,828.5">
+       </path>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g id="g4745" transform="translate(10.415661,20.886536)">
+  <path id="path4747" class="st4" d="M66.4,25.5c-3.9,5.3-6.4,12.4-6.3,20.8c0,9.2,4,16.9,10.3,22.1c6.1-5.1,10.3-12.7,10.1-21.9
+		c-0.1-6.9-0.7-13.3-6.7-21.6c-0.9-1.3-2.7-3.1-3.5-3.9C70.1,21.1,67.8,23.4,66.4,25.5">
+  </path>
+ </g>
+</svg>

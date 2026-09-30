@@ -1,0 +1,9 @@
+{
+  "layer_weights": {
+    "intent": 0.25,
+    "fit": 0.25,
+    "eligibility": 0.25,
+    "rupee_value": 0.20,
+    "competitive": 0.05
+  }
+}

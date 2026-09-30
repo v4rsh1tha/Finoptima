@@ -1,0 +1,67 @@
+<svg version="1.1" id="svg8" xmlns:x="ns_extend;" xmlns:i="ns_ai;" xmlns:graph="ns_graphs;" inkscape:version="0.92.3 (2405546, 2018-03-11)" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 145.5 60" style="enable-background:new 0 0 145.5 60;" xml:space="preserve">
+ <style type="text/css">
+  .st0{fill:#FFFFFF;}
+	.st1{fill:#2B61AB;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#D71C23;}
+ </style>
+ <metadata id="metadata5">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>
+     image/svg+xml
+    </dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage">
+    </dc:type>
+    <dc:title>
+    </dc:title>
+   </cc:Work>
+  </rdf:RDF>
+  <sfw xmlns="ns_sfw;">
+   <slices>
+   </slices>
+   <sliceSourceBounds bottomLeftOrigin="true" height="60" width="145.5" x="26" y="11">
+   </sliceSourceBounds>
+  </sfw>
+ </metadata>
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0.5" fit-margin-left="0.5" fit-margin-right="0.5" fit-margin-top="0.5" id="base" inkscape:current-layer="layer1" inkscape:cx="181.55915" inkscape:cy="-20.483603" inkscape:document-units="px" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1001" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:zoom="2.8" pagecolor="#00ffff" showgrid="false" units="px">
+ </sodipodi:namedview>
+ <g id="layer1" transform="translate(-288.18366,561.34618)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+  <path id="path79168" inkscape:connector-curvature="0" class="st0" d="M288.2-511.8h145.5v-32.6H288.2V-511.8z">
+  </path>
+  <path id="path79170" inkscape:connector-curvature="0" class="st1" d="M289.2-512.8h143.5v-30.5H289.2V-512.8z">
+  </path>
+  <path id="path79172" inkscape:connector-curvature="0" class="st2" d="M302.1-520.5h3.6v-7.4l5.8-7.9h-3.8l-3.5,4.8l-3.2-4.8h-4.3
+		l5.4,8L302.1-520.5z">
+  </path>
+  <path id="path79174" inkscape:connector-curvature="0" class="st2" d="M313.1-520.5h9.4v-3.2h-5.9v-3h5v-3.1h-5v-2.8h5.8v-3.1h-9.3
+		L313.1-520.5z">
+  </path>
+  <path id="path79176" inkscape:connector-curvature="0" class="st2" d="M325.8-524.8l0.3,4.1c0.8,0.2,1.5,0.4,2.1,0.5
+		c0.7,0.1,1.3,0.2,1.9,0.2c1.7,0,3.1-0.5,4-1.4c1-0.9,1.4-2.1,1.5-3.6c0-1.2-0.4-2.1-1.1-2.8c-0.7-0.7-1.6-1.4-2.7-1.9l-1.8-1
+		c-0.4-0.2-0.6-0.4-0.8-0.6c-0.2-0.2-0.3-0.5-0.3-0.7c0-0.4,0.2-0.7,0.4-0.9c0.3-0.2,0.7-0.3,1.2-0.3c0.4,0,0.9,0.1,1.6,0.3
+		c0.6,0.2,1.4,0.6,2.2,1.1v-3.6c-0.7-0.3-1.4-0.4-2-0.6c-0.6-0.1-1.2-0.2-1.8-0.2c-1.5,0-2.7,0.4-3.6,1.2c-0.9,0.8-1.3,1.8-1.3,3
+		c0,0.9,0.2,1.7,0.7,2.4c0.5,0.7,1.2,1.4,2.2,1.9l1,0.6c0.8,0.4,1.4,0.8,1.8,1.1c0.4,0.3,0.7,0.7,0.7,1.3c0,0.4-0.2,0.8-0.5,1.1
+		c-0.4,0.3-0.9,0.4-1.5,0.4c-0.7,0-1.4-0.1-2.1-0.4C327.3-523.9,326.6-524.3,325.8-524.8">
+  </path>
+  <path id="path79178" inkscape:connector-curvature="0" class="st2" d="M394.3-520.5h2.6v-9.7l9.7,10.2h0.3v-15.8h-2.6v9.7
+		l-9.7-10.2h-0.3V-520.5z">
+  </path>
+  <path id="path79180" inkscape:connector-curvature="0" class="st2" d="M411.7-520.5h2.6v-7.1l6.8,7.1h3.4l-7.6-7.9l6.9-7.3h-3.1
+		l-6.4,6.8v-6.8h-2.6L411.7-520.5z">
+  </path>
+  <path id="path79182" inkscape:connector-curvature="0" class="st2" d="M372.3-561.3l-33.1,60l-11.4-11.5h7.8L372.3-561.3z">
+  </path>
+  <path id="path79184" inkscape:connector-curvature="0" class="st3" d="M368.2-554.9L339-503.1l-8.6-8.7h5.8L368.2-554.9z">
+  </path>
+  <path id="path79186" inkscape:connector-curvature="0" class="st2" d="M381.8-525.3l2.5-5.7l2.5,5.7H381.8z M379.6-520.5l1.2-2.7
+		h6.9l1.2,2.7h2.8l-7.2-15.8h-0.2l-7.4,15.8H379.6z">
+  </path>
+  <path id="path79188" inkscape:connector-curvature="0" class="st2" d="M367.9-529.4v-4.3h1.5c1,0,1.7,0.2,2.2,0.5
+		c0.5,0.3,0.7,0.9,0.7,1.6c0,0.7-0.3,1.2-0.7,1.6c-0.5,0.4-1.2,0.6-2.1,0.6L367.9-529.4z M367.9-522.6l0-4.8h1.9
+		c0.9,0,1.6,0.2,2.1,0.6c0.5,0.4,0.7,1,0.7,1.7c0,0.8-0.3,1.4-0.7,1.8c-0.5,0.4-1.2,0.6-2.1,0.6L367.9-522.6z M365.3-520.5v-15.3
+		h4.5c1.2,0,2.8,0.2,3.8,1c0.8,0.7,1.3,1.6,1.3,2.9c0,0.8-0.2,1.4-0.6,2c-0.4,0.5-1,1-1.8,1.3c0.9,0.2,1.5,0.7,2,1.3
+		c0.5,0.6,0.7,1.4,0.7,2.4c0,1.5-0.5,2.6-1.4,3.4c-1,0.7-2.4,1.1-4.3,1.1L365.3-520.5L365.3-520.5z">
+  </path>
+ </g>
+</svg>

@@ -1,0 +1,88 @@
+{
+  "base_weights": {
+    "annual_fee_alignment": 20,
+    "reward_rate_match": 15,
+    "welcome_bonus_value": 10,
+    "travel_benefits_depth": 10,
+    "cashback_structure": 10,
+    "additional_perks": 10,
+    "lounge_access": 10,
+    "network_preference": 5,
+    "bank_relationship": 5,
+    "digital_experience": 5
+  },
+  "dynamic_shifts": {
+    "travel": {
+      "travel_benefits_depth": 40,
+      "lounge_access": 20,
+      "reward_rate_match": 15,
+      "annual_fee_alignment": 10,
+      "cashback_structure": 5,
+      "additional_perks": 5,
+      "welcome_bonus_value": 5,
+      "network_preference": 0,
+      "bank_relationship": 0,
+      "digital_experience": 0
+    },
+    "cashback": {
+      "cashback_structure": 35,
+      "reward_rate_match": 25,
+      "annual_fee_alignment": 20,
+      "welcome_bonus_value": 10,
+      "additional_perks": 5,
+      "travel_benefits_depth": 5,
+      "lounge_access": 0,
+      "network_preference": 0,
+      "bank_relationship": 0,
+      "digital_experience": 0
+    },
+    "maximize_rewards": {
+      "reward_rate_match": 30,
+      "welcome_bonus_value": 20,
+      "annual_fee_alignment": 15,
+      "cashback_structure": 15,
+      "additional_perks": 10,
+      "travel_benefits_depth": 5,
+      "lounge_access": 5,
+      "network_preference": 0,
+      "bank_relationship": 0,
+      "digital_experience": 0
+    },
+    "premium_lifestyle": {
+      "travel_benefits_depth": 25,
+      "additional_perks": 25,
+      "welcome_bonus_value": 15,
+      "lounge_access": 15,
+      "reward_rate_match": 10,
+      "annual_fee_alignment": 5,
+      "cashback_structure": 5,
+      "network_preference": 0,
+      "bank_relationship": 0,
+      "digital_experience": 0
+    },
+    "build_credit": {
+      "annual_fee_alignment": 35,
+      "bank_relationship": 20,
+      "digital_experience": 20,
+      "reward_rate_match": 10,
+      "cashback_structure": 10,
+      "welcome_bonus_value": 5,
+      "travel_benefits_depth": 0,
+      "lounge_access": 0,
+      "additional_perks": 0,
+      "network_preference": 0
+    },
+    "business": {
+      "reward_rate_match": 25,
+      "additional_perks": 20,
+      "digital_experience": 20,
+      "annual_fee_alignment": 15,
+      "cashback_structure": 10,
+      "welcome_bonus_value": 5,
+      "travel_benefits_depth": 5,
+      "lounge_access": 0,
+      "network_preference": 0,
+      "bank_relationship": 0
+    }
+  }
+}
